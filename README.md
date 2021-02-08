@@ -54,6 +54,4 @@
    ```
 ## PLEASE CHECK APP_RECORDING
 
-   `https://www.youtube.com/watch?v=OqIs9W7gXJg&ab_channel=AmritRegmi
-         By Amrit Regmi, crazyregmi@gmail.com
-    `
+   `By Amrit Regmi, crazyregmi@gmail.com`
