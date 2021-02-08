@@ -1,0 +1,25 @@
+{
+    "folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+			"workbench.colorTheme": "GitHub Dark",
+			"files.autoSave": "onFocusChange",
+			"editor.minimap.enabled": true,
+			"workbench.statusBar.visible": true,
+			"workbench.activityBar.visible": true,
+			"editor.formatOnSave": false,
+		  
+			"workbench.colorCustomizations": {
+				
+			},
+			"editor.fontSize": 14,
+			"css.validate": false,
+			"scss.validate": false,
+			"less.validate": false,
+			"editor.wordWrap": "on",
+			"github.gitAuthentication": false
+		  }
+}

@@ -1,0 +1,26 @@
+{
+    
+    "files.trimFinalNewlines": true,
+    "prettier.tabWidth": 4,
+    "prettier.arrowParens": "avoid",
+    //"workbench.editor.highlightModifiedTabs": true,
+    //editor"editor.fontFamily": "Fira Code",
+    //"editor.fontLigatures": true
+
+    "editor.cursorStyle": "line",
+    "eslint.format.enable": true,
+    "[sass]": {
+        "editor.tabSize": 2
+    },
+    "[jade]": {
+        "editor.detectIndentation": false,
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
+    },
+    "[html]": {
+        "editor.tabSize": 2
+    },
+    "editor.formatOnSaveMode": "modifications",
+    "editor.formatOnPaste": true,
+    
+}
