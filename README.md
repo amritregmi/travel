@@ -1,7 +1,8 @@
 # INTRODUCTION #
    App Name - 
-      . Travel and Tour- Play APP_RECORDING.mov FIle (User can create an account, book a tour, pay the tour  )
-
+      . Travel (User can create an account, book a tour, pay the tour)
+      . Link to the app video (https://www.youtube.com/watch?v=OqIs9W7gXJg&ab_channel=AmritRegmi)
+      
    Technologies Used - 
    
       FRONTEND - VanillaJS, Pug, Mapbox, CSS3, Sass, Payment Services (Stripe), Email Services (MailTrap, SendGrid)
@@ -51,5 +52,8 @@
       * How to run in debug mode?
          $ npm run debug
    ```
-## PLEASE CHECK APP_RECORDING.mov (VIDEO FILE )
-   `By Amrit Regmi, crazyregmi@gmail.com`
+## PLEASE CHECK APP_RECORDING
+
+   `https://www.youtube.com/watch?v=OqIs9W7gXJg&ab_channel=AmritRegmi
+         By Amrit Regmi, crazyregmi@gmail.com
+    `
